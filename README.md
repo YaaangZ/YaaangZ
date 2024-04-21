@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yang</h1>
 <h3 align="center">A passionate CS student</h3>
 
-- 👨‍💻My Personal Website [https://yaaangz.github.io/](https://yaaangz.github.io/)
-
 - 📫 How to reach me **yzhao905@outlook.com**
-
-- 📄 Resume [https://drive.google.com/file/d/16pxT6QPNWNDSVEF2wgT3vUotecjlfHpE/view](https://drive.google.com/file/d/16pxT6QPNWNDSVEF2wgT3vUotecjlfHpE/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
