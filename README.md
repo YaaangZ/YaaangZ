@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yang</h1>
 <h3 align="center">A passionate CS student</h3>
 
-- 📫 How to reach me **yzhao905@outlook.com**
+- 📫 How to reach me **yangzhao.career1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
